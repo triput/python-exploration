@@ -9,7 +9,7 @@ Setup Instructions
 If you choose to do this project on your computer instead of Codecademy, you can download what you’ll need by clicking the “Download” button below. If you need help setting up your computer, be sure to check out our setup guide.
 
 Tasks
-4/9Complete
+
 Mark the tasks as complete by checking them off
 Prerequisites
 1.
